@@ -1,0 +1,1 @@
+Re-starting the React from the Scratch
